@@ -28,6 +28,8 @@ git remote -v
 - [x] Exercism-10 exercises and mentorings (deadline 1.10)nd e-mail to Gabor 
 - [x] Exercism-10 exercises and mentorings (deadline 1.10)
 
+* [Link to the ful list of completed Exercism exercises](Excercism.md)
+
 
 <!--
 **nirer06/nirer06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
