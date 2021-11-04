@@ -30,7 +30,7 @@ git remote -v
 
 * [Link to the ful list of completed Exercism exercises](Excercism.md)
 
-(panda.ico)
+[](panda.ico)
 
 
 <!--
