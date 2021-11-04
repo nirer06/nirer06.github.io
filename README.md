@@ -30,7 +30,7 @@ git remote -v
 
 * [Link to the ful list of completed Exercism exercises](Excercism.md)
 
-(img src="https://img.icons8.com/officel/16/000000/panda.png"/)
+<"https://img.icons8.com/officel/16/000000/panda.png"/>
 
 
 <!--
