@@ -30,7 +30,7 @@ git remote -v
 
 * [Link to the ful list of completed Exercism exercises](Excercism.md)
 
-# <link rel="shortcut icon" type="image/x-icon" href="panda.ico">
+[panda](panda.ico)
 
 <!--
 **nirer06/nirer06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
