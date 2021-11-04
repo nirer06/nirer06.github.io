@@ -2,7 +2,7 @@
 
  * Little Sister's Vocabulary
  * Meltdown Mitigatio
- * Guido's Gorgeous Lasagna-mentoredby bobahop
+ * Guido's Gorgeous Lasagna- mentored by bobahop
  * Ghost Gobble Arcade Game
  * Card Games
  * Chaitana's Colossal Coaster
