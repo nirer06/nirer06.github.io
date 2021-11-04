@@ -34,6 +34,43 @@ git remote -v
 - [x] Exercism-10 exercises and mentorings (deadline 1.10)
 
 * [Link to the ful list of completed Exercism exercises](Excercism.md)
+ 
+ 
+## Lecture 2 Nov 2th
+***
+### What we learned:
+ 
+* Authentication with GitHub
+* Create a GitHub page using Markdown, with examples
+* We removed and the recreated code-maven.github.io - source from scratch.
+* Intrudction to HTML commands
+
+
+* GitHub, and basic git commands:
+
+``` git status
+git diff
+git add
+git commit
+git show SHA
+git push
+git remote -v
+```
+
+* Code Testing in python: doctest, pytest, Unittest
+***
+### HW:
+
+- [x] Create a notes.md and student.json + send a pull request 
+- [x] Create a GitHub repository for our web site 
+- [x] Have at least two pages in your GitHub pages website. Link between them 
+- [x] On our new web site create a page called exercism, and link to the other pages.
+- [x] Add favicon to the website
+- [x]Create a web site with plain HTML
+ 
+
+* [Link to the ful list of completed Exercism exercises](Excercism.md)
+
 
 
 <!--
