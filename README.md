@@ -43,21 +43,42 @@ git remote -v
 * Authentication with GitHub
 * Create a GitHub page using Markdown, with examples
 * We removed and the recreated code-maven.github.io - source from scratch.
-* Intrudction to HTML commands
+* Intrudction to HTML commands:
+ ```
+ html, head, body
+h1, h2, .. h6
+p
+ul, ol, li
+hr
+title
+
+table, tr, th, td
+
+div, span
+  ```
 
 
 * GitHub, and basic git commands:
 
-``` git status
-git diff
-git add
-git commit
-git show SHA
-git push
-git remote -v
-```
+``` 
+ggit config --global --add user.name "Foo Bar"
+git config --global --add user.email foo@bar.com
 
-* Code Testing in python: doctest, pytest, Unittest
+
+git init                     # create local repository
+
+git status
+git diff
+git add <FILENAME>           # add to stage
+git reset HEAD <FILENAME>    # remove from stage, unstage
+git commit -m "some message"
+git restore <FILENAME>       # forget the local, not yet committed, changes.
+git checkout <FILENAME>      # the same as "restore" for older versions of git.
+git log                      # to see the history of changes.
+.gitignore                   # to avoid adding unwanted files.
+git rm                       # to remove a file from git. However, remember the file will remain in the history.
+git mv                       # To move or rename a file and let git record this change.
+```
 ***
 ### HW:
 
