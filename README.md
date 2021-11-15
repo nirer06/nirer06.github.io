@@ -1,20 +1,21 @@
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Nir Erez Website</title>
+<title>GitHub Page of Nir Erez</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Nir Erez Website" />
+<meta property="og:title" content="GitHub Page of Nir Erez" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://github.nirer06.com/" />
-<meta property="og:url" content="https://github.nirer06.com/" />
-<meta property="og:site_name" content="Nir Erez Website" />
+<meta property="og:url" content="https://github.szabgab.com/" />
+<meta property="og:site_name" content="GitHub Page of Nir Erez" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Nir Erez Website" />
+<meta property="twitter:title" content="GitHub Page of Nir Erez" />
 <script type="application/ld+json">
-{"url":"https://github.nirer06.com/","@type":"WebSite","headline":"GitHub Page of Nir Erez","name":"Nir Erez Website","@context":"https://schema.org"}</script>
+{"url":"https://github.nirer06.com/","@type":"WebSite","headline":"GitHub Page of Nir Erez","name":"GitHub Page of Nir Erez","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -33,6 +34,7 @@
 <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
 <!-- end custom head snippets -->
+
 
   </head>
   <body>
