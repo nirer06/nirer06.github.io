@@ -15,7 +15,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Nir Erez Website" />
 <script type="application/ld+json">
-{"url":"https://github.nirer06.com/","@type":"WebSite","headline":"GitHub Page of Nir Erez","name":"Nir Erez Website","@context":"https://schema.org"}</script>
+{"url":"https://github.nirer06.com/","@type":"WebSite","headline":"GitHub Page of Gábor Szabó","name":"Nir Erez Website","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
