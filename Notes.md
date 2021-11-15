@@ -90,7 +90,7 @@ git mv                       # To move or rename a file and let git record this 
 - [x]Create a web site with plain HTML
 
 
-* [Link to the ful list of completed Exercism exercises](Excercism.md)
+[Link to the ful list of completed Exercism exercises](Excercism.md)
 
 
 
