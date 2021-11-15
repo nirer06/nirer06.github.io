@@ -47,7 +47,7 @@
 <ul>
   <li><a href="https://nirer06.github.io/">Home page</a></li>
   <li><a href="https://nirer06.github.io/Notes">WIS python course notes</a></li>
-  <li><a href="https://nirer06.github.io/Excrcism">Completed Exercism exercises</a></li>
+  <li><a href="https://nirer06.github.io/Excrcism">Completed Exrcism exercises</a></li>
   <li><a href="https://nirer06.github.io/web/index.html">HTML based website</a></li>
 </ul>
 
