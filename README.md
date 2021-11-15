@@ -5,17 +5,17 @@
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Nir Erez Website | amiro-tech.github.io</title>
+<title>Nir Erez Website</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Nir Erez" />
+<meta property="og:title" content="Nir Erez Website" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://nirer06.github.io/" />
-<meta property="og:url" content="https://nirer06.github.io/" />
-<meta property="og:site_name" content="nirer06.github.io" />
+<link rel="canonical" href="https://github.nirer06.com/" />
+<meta property="og:url" content="https://github.nirer06.com/" />
+<meta property="og:site_name" content="Nir Erez Website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Nir Erez" />
+<meta property="twitter:title" content="Nir Erez Website" />
 <script type="application/ld+json">
-{"url":"https://amiro-tech.github.io/","@type":"WebSite","headline":"Amir Haluts","name":"amiro-tech.github.io","@context":"https://schema.org"}</script>
+{"url":"https://github.nirer06.com/","@type":"WebSite","headline":"GitHub Page of Gábor Szabó","name":"Nir Erez Website","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -23,7 +23,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=4fe4b3f2b2a5ac13277b2eb9b414b923062def46">
+    <link rel="stylesheet" href="/assets/css/style.css?v=ef3f3c8bc854a9ffe6289c7e814ad60ae8c2140d">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -37,6 +37,7 @@
 
   </head>
   <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
 <h2 id="experience"><strong>Welcome to Nir's Website</strong></h2>
 
@@ -48,7 +49,6 @@
   <li><a href="https://nirer06.github.io/exercism">Completed Exercism exercises</a></li>
   <li><a href="https://nirer06.github.io/web/">HTML based website</a></li>
 </ul>
-
 
       <footer class="site-footer">
 
