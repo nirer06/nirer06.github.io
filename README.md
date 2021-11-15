@@ -1,110 +1,59 @@
- <html>
-<head>
- <link rel="shortcut icon" type="image/x-icon" href="Smiling_Devil_Emoji.ico.ico"> 
-</head>
 
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
-### Advanced Python Course 2021- Nir Erez
-***
-## Lecture 1 Oct 26th
-***
-### What we learned:
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Nir Erez Website | amiro-tech.github.io</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Nir Erez" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://nirer06.github.io/" />
+<meta property="og:url" content="https://nirer06.github.io/" />
+<meta property="og:site_name" content="nirer06.github.io" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Nir Erez" />
+<script type="application/ld+json">
+{"url":"https://amiro-tech.github.io/","@type":"WebSite","headline":"Amir Haluts","name":"amiro-tech.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-* General comments and requirments of the course
-* Intrudction to Markdown
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/assets/css/style.css?v=4fe4b3f2b2a5ac13277b2eb9b414b923062def46">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-* GitHub, and basic git commands:
-
-``` git status
-git diff
-git add
-git commit
-git show SHA
-git push
-git remote -v
-```
-
-* Code Testing in python: doctest, pytest, Unittest
-***
-### HW:
-
-- [x] Create a notes.md and student.json + send a pull request 
-- [x] Accounts and e-mail to Gabor 
-- [x] Exercism-10 exercises and mentorings (deadline 1.10)nd e-mail to Gabor 
-- [x] Exercism-10 exercises and mentorings (deadline 1.10)
-
-* [Link to the ful list of completed Exercism exercises](Excercism.md)
- 
- 
-## Lecture 2 Nov 2th
-***
-### What we learned:
- 
-* Authentication with GitHub
-* Create a GitHub page using Markdown, with examples
-* We removed and the recreated code-maven.github.io - source from scratch.
-* Intrudction to HTML commands:
- ```
- html, head, body
-h1, h2, .. h6
-p
-ul, ol, li
-hr
-title
-
-table, tr, th, td
-
-div, span
-  ```
-
-
-* GitHub, and basic git commands:
-
-``` 
-ggit config --global --add user.name "Foo Bar"
-git config --global --add user.email foo@bar.com
-
-
-git init                     # create local repository
-
-git status
-git diff
-git add <FILENAME>           # add to stage
-git reset HEAD <FILENAME>    # remove from stage, unstage
-git commit -m "some message"
-git restore <FILENAME>       # forget the local, not yet committed, changes.
-git checkout <FILENAME>      # the same as "restore" for older versions of git.
-git log                      # to see the history of changes.
-.gitignore                   # to avoid adding unwanted files.
-git rm                       # to remove a file from git. However, remember the file will remain in the history.
-git mv                       # To move or rename a file and let git record this change.
-```
-***
-### HW:
-
-- [x] Create a notes.md and student.json + send a pull request 
-- [x] Create a GitHub repository for our web site 
-- [x] Have at least two pages in your GitHub pages website. Link between them 
-- [x] On our new web site create a page called exercism, and link to the other pages.
-- [x] Add favicon to the website
-- [x]Create a web site with plain HTML
- 
-
-* [Link to the ful list of completed Exercism exercises](Excercism.md)
+<!-- Setup Google Analytics -->
 
 
 
-<!--
-**nirer06/nirer06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
-Here are some ideas to get you started:
+<!-- end custom head snippets -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </head>
+  <body>
+
+<h2 id="experience"><strong>Welcome to Nir's Website</strong></h2>
+
+<h4 id="phd-student-theoretical-Biological-Regulation">PhD student, Biological Regulation, Efrat Shema's Lab,Weizmann Institute of Science</h4>
+<h3 id="Links">Links</h3>
+<ul>
+  <li><a href="https://nirer06.github.io/">Home page</a></li>
+  <li><a href="https://nirer06.github.io/python_notes">WIS python course notes</a></li>
+  <li><a href="https://nirer06.github.io/exercism">Completed Exercism exercises</a></li>
+  <li><a href="https://nirer06.github.io/web/">HTML based website</a></li>
+</ul>
+
+
+      <footer class="site-footer">
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </main>
+  </body>
+</html>
